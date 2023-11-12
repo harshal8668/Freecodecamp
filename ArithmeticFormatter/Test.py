@@ -1,5 +1,5 @@
 import unittest
-from arithmetic_arranger import arithmetic_arranger
+from arithmeticArranger import arithmetic_arranger
 
 
 # the test case
